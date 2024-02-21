@@ -1,0 +1,27 @@
+responsive wed design(rwd)
+what is responsive wed design(rwd) ?
+advantage 
+     improved user experience
+     inccreased mobile traffic
+     cost and time efficiency
+     search engine optimization (SEO)benefits
+
+     ways to implement responsive web design
+      -> responsive layouts
+      -> responsive images
+      -> media query
+      -> reponsive typography
+      -> the viewport meta tag 
+
+
+
+
+      media:
+        all
+        screen
+        print 
+        speech
+
+     operators:
+     and 
+     or    

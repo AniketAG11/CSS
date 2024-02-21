@@ -1,0 +1,23 @@
+<!--create a web page with an image that is hidden until it is hovered over.
+    use a heading above the image that says hover below to reveal a surprise-->
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>q5</title>
+        <style>
+             .hidden-img{
+                   display: none;  
+                 width: 200px;
+             }
+             .hoverme:hover + .hidden-img{
+                display:inline;
+             }
+        </style>
+    </head>
+    <body>
+       <h1 class="hoverme">-:-> hover side to reveal a surprise</h1>  
+       <img src="leopord.img.jpg" alt=" leopord" class="hidden-img">
+    </body>
+    </html>
